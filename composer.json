@@ -1,7 +1,7 @@
 {
 	"name" : "ezkimo/xslt-template-engine",
 	"description" : "A simple XSLT view renderer processing XSL templates with XML data",
-	"license" : "GNU General Public License v3.0",
+	"license" : "GPL-3.0-or-later",
 	"autoload" : {
 		"psr-4" : {
 			"MMNewmedia\\View\\" : "src/"
