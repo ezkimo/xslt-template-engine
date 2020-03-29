@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<cars>
+	<car>
+		<name>MMNewmedia Mobil</name>
+		<build>2019-01-20</build>
+		<driver>
+			<fuehrerschein>1</fuehrerschein>
+			<name>Marcel</name>
+		</driver>
+		<passenger>
+			<name>Nina</name>
+		</passenger>
+		<passenger>
+			<name>Steffen</name>
+		</passenger>
+	</car>
+	<car>
+		<name>Batmobil</name>
+		<build>2020-01-01</build>
+		<driver>
+			<fuehrerschein>0</fuehrerschein>
+			<name>Batman</name>
+		</driver>
+		<passenger>
+			<name>Robin</name>
+		</passenger>
+	</car>
+</cars>

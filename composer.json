@@ -1,0 +1,21 @@
+{
+	"name" : "ezkimo/xslt-template-engine",
+	"description" : "A simple XSLT view renderer processing XSL templates with XML data",
+	"license" : "GNU General Public License v3.0",
+	"autoload" : {
+		"psr-4" : {
+			"MMNewmedia\\View\\" : "src/"
+		}
+	},
+	"require-dev" : {
+		"phpunit/phpunit" : "^9"
+	},
+	"authors" : [{
+			"name" : "Marcel Maaß",
+			"email" : "info@mm-newmedia.de",
+			"homepage" : "https://www.mm-newmedia.de",
+			"role" : "Developer"
+		}
+	],
+	"homepage" : "https://www.mm-newmedia.de"
+}
